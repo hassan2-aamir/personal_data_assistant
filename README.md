@@ -8,6 +8,7 @@ This project is a personal data assistant that can process user messages and PDF
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
+- [Technologies Used](#technologies-used)
 - [License](#license)
 
 ## Installation
@@ -83,3 +84,17 @@ This project is a personal data assistant that can process user messages and PDF
 - lxml==4.9.2
 - bs4==0.0.1
 - langchain_community
+
+## Technologies Used
+
+- **Backend**: Flask
+- **Frontend**: JavaScript, HTML, CSS
+- **Machine Learning**: HuggingFace models, IBM Watson AI
+- **Containerization**: Docker
+- **PDF Processing**: pdf2image, pypdf
+- **Data Handling**: pandas
+- **NLP**: sentence-transformers, InstructorEmbedding
+
+## License
+
+This project is licensed under the MIT License.
