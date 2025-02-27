@@ -9,6 +9,7 @@ This project is a personal data assistant that can process user messages and PDF
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Technologies Used](#technologies-used)
+- [Demo](#demo)
 - [License](#license)
 
 ## Installation
@@ -94,6 +95,16 @@ This project is a personal data assistant that can process user messages and PDF
 - **PDF Processing**: pdf2image, pypdf
 - **Data Handling**: pandas
 - **NLP**: sentence-transformers, InstructorEmbedding
+
+## Demo
+
+Here are some screenshots of the application in action:
+
+![Initial Chat Screen](demo/privateAI1.png)
+*Initial chat interface prompting to upload a document*
+
+![Question Answering](demo/privateAI.png)
+*AI answering questions based on the uploaded document*
 
 ## License
 
