@@ -100,7 +100,7 @@ This project is a personal data assistant that can process user messages and PDF
 
 Here are some screenshots of the application in action:
 
-![Initial Chat Screen](demo/privateAI1.png)
+![Initial Chat Screen](demo/privateAi1.png)
 *Initial chat interface prompting to upload a document*
 
 ![Question Answering](demo/privateAI.png)
